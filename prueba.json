@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lon": 139,
+        "lat": 35
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 22,
+        "pressure": 1014,
+        "humidity": 88,
+        "temp_min": 22,
+        "temp_max": 22
+    },
+    "visibility": 8000,
+    "wind": {
+        "speed": 5.21,
+        "deg": 243.006
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1529943360,
+    "sys": {
+        "type": 1,
+        "id": 7573,
+        "message": 0.0041,
+        "country": "JP",
+        "sunrise": 1529868691,
+        "sunset": 1529920911
+    },
+    "id": 1851632,
+    "name": "Shuzenji",
+    "cod": 200
+}
